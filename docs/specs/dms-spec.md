@@ -4,7 +4,7 @@
 
 Entregar uma aplicação web que permita a usuários identificados enviar, listar e baixar seus documentos, armazenando os arquivos no filesystem local e mantendo os metadados em memória nesta primeira versão.
 
-## 2. Escopo
+## 2. Escopo 
 
 ### Dentro do escopo
 
